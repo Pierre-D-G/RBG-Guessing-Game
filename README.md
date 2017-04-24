@@ -19,7 +19,8 @@ Numbers range from 0-255 with the smaller the number being the amount of the col
 
 (103, 33, 160) = purple
 
-To USE.
+## To USE.
+
 Clone or download the repository.
 
 Open the html file name RBG Guessing Game in your browser.
