@@ -16,11 +16,14 @@ Numbers range from 0-255 with the smaller the number being the amount of the col
 ## Examples
 
 (0,0,0) = Black
+
 (103, 33, 160) = purple
 
 To USE.
 Clone or download the repository.
+
 Open the html file name RBG Guessing Game in your browser.
+
 Play!
 
 
